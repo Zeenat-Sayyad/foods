@@ -1,0 +1,36 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+html{
+    background-color: #fff;
+    color:black;
+   font-size: 20px;;
+    font-family: 'Lato','Arail',sans-serif;
+   
+    text-rendering: optimizeLegibility;
+}
+.row{
+    margin:0,auto;
+    max-width: 1140px;
+}
+header{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.411),rgba(0, 0, 0, 0.411)),url(img/calculator-385506_960_720.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position:center;
+}
+.h1-text{
+    position: absolute;
+    width:1140px;
+    top: 50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    color:white;
+    
+    }
+
+    
+
+
